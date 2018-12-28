@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mvp</string>
+    <string name="UserName"></string>
+    <string name="Pswd"></string>
+    <string name="login">登录</string>
+    <string name="resgin">注册</string>
+</resources>
